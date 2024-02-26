@@ -1,5 +1,7 @@
 # odin-recipes
-This is my first project while working through The Odin Project This is a basics recipe website with an index page and some links to recipes.
+This is my first project while working through The Odin Project 
+
+This is a basics recipe website with an index page and some links to recipes.
 
 At this moment in time I am covering the HTML basics.
 
