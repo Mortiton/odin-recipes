@@ -5,7 +5,7 @@ This is a basics recipe website with an index page and some links to recipes.
 
 At this moment in time I am covering the HTML basics.
 
-After completion of this project the skills I will have demostrated:
+After completion of this project the skills I will have demonstrated:
 - Using html elements and attributes to structure the page
 - using links to link to recipes
 
