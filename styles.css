@@ -1,0 +1,50 @@
+/* CSS StyleSheet */
+* {
+    background-color: rgb(148, 243, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5em;
+}
+
+h1,
+h2,
+h3 {
+    /* text-shadow: 1px 1px 1px #6cbed3; */
+    color: rgb(5, 87, 80);
+    text-align: center;
+}
+
+h2,
+h3
+{
+    text-align: left;
+    text-decoration: underline;
+}
+
+
+a:link {
+    color: rgb(5, 87, 80);
+}
+
+a:visited {
+    color: rgb(14, 82, 121)
+}
+
+.img-container {
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+
+li,
+p {
+    font-size: 18px;
+}
+/* .text-box {
+    width: 80%;
+    height:auto;
+    border: 2px solid black;
+    margin: 8px;
+    padding-left: 8px;
+    background-color: aqua;
+} */
